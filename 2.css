@@ -129,7 +129,7 @@ nav img{
     display: flex;
     gap: 20px;
 }
-.card{
-    height: 120px;
-    width: 50px;
+.card img{
+    width: 100%;
 }
+
